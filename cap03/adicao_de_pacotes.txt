@@ -1,0 +1,30 @@
+3.2 Adição de pacote para entrada de dados
+
+O passo seguinte à instalação do Node.js é adicionar um pacote que
+permitirá que os nossos programas façam a entrada de dados via linha de
+comando. Vamos utilizar o prompt-sync(). 
+Existem diversos outros, mas esse
+contém os recursos básicos necessários para o desenvolvimento de
+Algoritmos – que é a proposta deste livro. 
+Vamos inicialmente criar a pasta
+cap03, em livrojs (como nos exemplos anteriores). 
+Podemos fazer a criação da
+pasta via linha de comandos. 
+Nas linhas de código a seguir, acessamos a
+pasta livrojs, instalamos o pacote prompt-sync, criamos a pasta cap03 e, na
+sequência, entramos nesta pasta:
+
+C:\Users\edecio>cd\livrojs
+C:\livrojs>npm i prompt-sync
+C:\livrojs>md cap03
+C:\livrojs>cd cap03
+
+
+Após a execução desses comandos, foi adicionada ao diretório (pasta) livrojs
+a pasta node-modules. 
+Ela contém os pacotes que foram adicionados ao
+projeto. 
+Além dela, também foram criados arquivos .json – tema abordado noCapítulo 12. 
+É importante destacar que os programas a serem desenvolvidos
+com o Node.js (e que utilizam o prompt-sync) precisam estar em pastas que
+ficam dentro de livrojs, uma vez que o pacote prompt-sync foi instalado nela.

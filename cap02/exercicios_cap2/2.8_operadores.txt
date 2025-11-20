@@ -1,0 +1,50 @@
+2.8 Operadores aritméticos e funções matemáticas
+
+Além dos tradicionais operadores de adição(+), subtração(-),
+multiplicação(*), divisão (/) e exponenciação (**), as linguagens de
+programação dispõe também do operador módulo (%). O módulo é utilizado
+para obter o resto da divisão entre dois números. Observe as seguintes
+expressões matemáticas:
+const a = 5 % 2 // a = 1
+const b = 7 % 4 // b = 
+
+Tabela 2.2 – Principais funções matemáticas da classe Math
+Math.abs(num) Retorna o valor absoluto de um número, ou seja, se o valor for negativo, ele
+será convertido para positivo. Se positivo, o valor permanece o mesmo.
+Exemplo: Math.abs(-3) => 3
+
+Veja uma aplicação de Math.abs() no Exemplo 8.3
+
+Math.ceil(num) Arredonda o valor para cima. Dessa forma, se o valor possuir decimais, retorna
+o próximo número inteiro do valor analisado.Exemplo: Math.ceil(4.2) => 5
+
+Veja uma aplicação de Math.ceil() no Exemplo 9.2
+
+Math.floor(num) Arredonda o valor para baixo, retornando a parte inteira do número.
+Exemplo: Math.floor(7.9) => 7
+
+Veja uma aplicação de Math.floor() no Exemplo 2.2
+
+Math.pow(base,exp)
+Retorna a base elevada ao expoente.
+Exemplo: Math.pow(3, 2) => 9
+
+Veja uma aplicação de Math.pow() no Exemplo 3.2
+
+Math.random() Retorna um número aleatório entre 0 e 1, com várias casas decimais. O número
+aleatório possível inicia em 0 e vai até um valor inferior a 1.
+Exemplo: Math.random() => 0.6501314074022906
+
+Veja uma aplicação de Math.random() no jogo do Exemplo 5.2
+
+Math.round(num) Arredonda o valor para o inteiro mais próximo. A partir de .5 na parte
+fracionária, o valor é arredondado para cima. Anterior a .5, é arredondado para
+baixo.
+Exemplo: Math.round(2.7) => 3
+
+Veja uma aplicação de Math.round() no Exemplo 6.10
+
+Math.sqrt(num) Retorna a raiz quadrada do número (square root).
+Exemplo: Math.sqrt(16) => 4
+
+Veja uma aplicação de Math.sqrt() no Exemplo 3.5

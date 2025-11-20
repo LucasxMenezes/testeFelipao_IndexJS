@@ -1,0 +1,44 @@
+--Lógica de programação
+
+--Compreender o que é pedido.
+Perca alguns minutos na leitura dos enunciados dos exercícios que você vai resolver. 
+Eles serão valiosos no final e talvez economizem horas do seu tempo.
+
+--Realizar deduções na construção do programa
+
+--Enumerar as etapas a serem realizadas
+
+--Analisar outras possibilidades de solução
+Quando deparar com um problema que você está com dificuldades
+para resolver de uma forma, respire um pouco... Tome uma água... 
+Tente pensar se poderia existir outra forma de solucioná-lo.
+
+--Ensinar ao computador uma solução
+É importante salientar que na resolução de algoritmos, no geral, existem
+diversas formas de se chegar a um resultado satisfatório. Por exemplo, para
+calcular o dobro de um número, pode-se resolver esse problema
+multiplicando o número por 2, ou, então, somando o número com ele
+mesmo. Ambas as soluções produzem um resultado correto.
+
+--Pensar em todos os detalhes
+
+--Entrada, processamento e saída
+a) Leia os dados de entrada.
+b) Realize o processamento dos dados.
+c) Apresente a saída dos dados.
+
+
+--Livros referencias para aprendizado
+
+JavaScript – Guia do
+Programador
+
+Princípios de Orientação a Objetos em
+JavaScript, de Nicholas C. Zakas, e Estruturas de dados e algoritmos em
+JavaScript, de Loiane Groner
+
+Princípios de Orientação a Objetos em
+JavaScript, de Nicholas C. Zakas
+
+Estruturas de dados e algoritmos em
+JavaScript, de Loiane Groner
